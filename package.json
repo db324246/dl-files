@@ -1,0 +1,13 @@
+{
+  "name": "dl-files",
+  "version": "1.0.0",
+  "description": "files handle tools",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "bin/cli.js",
+  "keywords": ["node", "clone", "clean", "promise", "fs"],
+  "author": "daixiaobin",
+  "license": "ISC"
+}
