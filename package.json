@@ -1,6 +1,6 @@
 {
   "name": "dl-files",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "files handle tools",
   "main": "lib/index.js",
   "scripts": {
