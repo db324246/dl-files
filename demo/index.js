@@ -2,6 +2,7 @@ const path = require('path');
 const { clone, clean } = require('../lib/index');
 
 const arr = [
+  './bb',
   './aaa.text',
   './aaa1.text',
   './aaa2.text',
